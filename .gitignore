@@ -1,3 +1,10 @@
+*.onnx
+*.pt
+*.pth
+*.jpg
+.idea/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
